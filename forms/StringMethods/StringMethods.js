@@ -17,4 +17,4 @@ let findString = 'Talent is cheaper than table salt. What separates the talented
 let part = findString.slice(35,120)   
 console.log(`The 35,120 slice is ${part}`)
 
-
+//hi
